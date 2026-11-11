@@ -66,3 +66,8 @@ img {
   background-position: bottom;
   background-attachment: scroll;
 }
+
+#about_title{
+  color: black;
+  background-color:rgb(232, 181, 16);
+}
