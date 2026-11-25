@@ -46,16 +46,16 @@ img {
 #contact_box{
   width: fit-content;
   height: fit-content;
-  border: 7px solid rgb(232, 181, 16);
-  padding: 2px;
+  border: 7rem solid rgb(232, 181, 16);
+  padding: 2rem;
   margin: auto;
   background-color: aliceblue;
 }
 #info_box{
   width: fit-content;
   height:fit-content;
-  border: 7px solid rgb(232, 181, 16);
-  padding: 2px;
+  border: 7rem solid rgb(232, 181, 16);
+  padding: 2rem;
   margin: auto;
   background-color: white;
   flex-wrap: wrap;
