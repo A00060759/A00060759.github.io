@@ -71,3 +71,13 @@ img {
   color: black;
   background-color:rgb(232, 181, 16);
 }
+
+@media screen and (orientation: portrait) and (max-width: 600px){
+  /*portrait mode*/
+}
+
+
+a:hover {
+  background-color: yellow;
+  font-size: 18px;
+}
