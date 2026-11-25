@@ -76,7 +76,8 @@ img {
 }
 
 @media screen and (orientation: portrait) and (max-width: 600px){
-p{font-size: 11px;}
+body{
+  font-size: 5px;}
 }
 
 
