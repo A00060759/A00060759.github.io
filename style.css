@@ -72,12 +72,14 @@ img {
   background-color:rgb(232, 181, 16);
 }
 
-@media screen and (orientation: portrait) and (max-width: 600px){
-  /*portrait mode*/
+@media screen and (orientation: portrait) and (min-width: 600px){
+
+
 }
+
 
 /*changes link background colour*/
 a:hover {
-  background-color: yellow;
+  background-color: rgb(9, 161, 161);
   font-size: 18px;
 }
