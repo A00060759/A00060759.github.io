@@ -50,6 +50,8 @@ img {
   padding: 0.25rem;
   margin: auto;
   background-color: aliceblue;
+
+  display: flex;
 }
 #info_box{
   width: fit-content;
@@ -58,6 +60,8 @@ img {
   padding: 0.25rem;
   margin: auto;
   background-color: white;
+
+  display: flex;
   flex-direction: column;
 }
 
@@ -76,8 +80,7 @@ img {
 }
 
 @media screen and (orientation: portrait) and (max-width: 600px){
-body{
-  font-size: 5px;}
+
 }
 
 
