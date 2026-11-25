@@ -80,11 +80,15 @@ img {
 }
 
 @media screen and (max-width: 600px){
-body{font-size: 0.5rem;}
+.flexbox{
+  flex-shrink: 50%;
+}
 }
 
 @media screen and (max-width: 1024px){
-body{font-size: 0.75rem;}
+.flexbox{
+  flex-shrink: 70%;
+}
 }
 
  
