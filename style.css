@@ -62,7 +62,7 @@ img {
 
 #about_background{
   background-image: url("images/dealership_background.jpg");
-  background-size:450px;
+  background-size:30rem;
   background-repeat: no-repeat;
   background-position: bottom;
   background-attachment: scroll;
