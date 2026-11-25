@@ -22,7 +22,7 @@ h4{
 }
 
 img {
-  display: block;
+  display: flex;
   margin: auto;
   width: 30%;
   flex-shrink: 0.50;
@@ -79,16 +79,10 @@ img {
   background-color:rgb(232, 181, 16);
 }
 
-@media screen and (max-width: 600px){
-.flexbox{
-  flex-shrink: 50%;
-}
+@media (max-width: 600px){
 }
 
-@media screen and (max-width: 1024px){
-.flexbox{
-  flex-shrink: 70%;
-}
+@media (max-width: 1024px){
 }
 
  
