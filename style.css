@@ -58,6 +58,8 @@ img {
   padding: 2px;
   margin: auto;
   background-color: white;
+  flex-wrap: wrap;
+  flex-direction: column;
 }
 
 #about_background{
