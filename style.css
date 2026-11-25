@@ -72,11 +72,13 @@ img {
   background-color:rgb(232, 181, 16);
 }
 
-@media screen and (orientation: portrait) and (min-width: 600px){
-
+@media screen and (orientation: portrait) and (max-width: 600px){
 
 }
 
+img{
+  flex-shrink: 0.50;
+}
 
 /*changes link background colour*/
 a:hover {
