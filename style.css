@@ -80,9 +80,12 @@ img {
 }
 
 @media screen and (orientation: portrait) and (max-width: 600px){
-
+body{font-size: 0.5rem;}
 }
 
+@media screen and (orientation: portrait) and (max-width: 1024px){
+body{font-size: 0.75rem;}
+}
 
  
 
